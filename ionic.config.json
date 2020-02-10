@@ -1,0 +1,7 @@
+{
+  "name": "facebooktoolkit_withotp",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "ionic-angular"
+}
